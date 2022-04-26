@@ -1,0 +1,6 @@
+Name: Tushar Verma
+Age: 19
+Phone: 1234567891
+Gender: Male
+Region: Maharashtra
+illness: Bipolar
